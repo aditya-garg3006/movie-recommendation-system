@@ -67,6 +67,6 @@ This recommendation system aims to predict a user's movie preferences by analyzi
 
 3. Run the notebook:
 
-   Open `movielens_recommender.ipynb` in Jupyter or Colab and run.
+   Open `Movie_Recommendation_System.ipynb` in Jupyter or Colab and run.
 
 ---
